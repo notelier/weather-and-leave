@@ -1,4 +1,6 @@
 # weather-and-leave
-fuck u ar (jk)
+fuck u ar
 
-![](http://www.neogaf.com/forum/showthread.php?t=1014079&page=3)
+![](https://github.com/teamblobby/weather-and-leave/blob/main/notrick.gif?raw=true)
+
+dw this is a rickroll
